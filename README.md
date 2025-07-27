@@ -19,6 +19,8 @@ The device was build using:
 
 It works on battery and and is able to safe energy by going into deep sleep mode.
 
+Sensor and micro-procesor are connected with I2C bus.
+
 ![Top](./photos/IMG20250727140551.jpg)
 
 ![Bottom](./photos/IMG20250727140607.jpg)
